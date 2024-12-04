@@ -3,8 +3,8 @@ package transformer_test
 import (
 	"testing"
 
+	"github.com/max107/transformer"
 	"github.com/stretchr/testify/require"
-	"gitlab.com/falaleev/shared/transformer"
 )
 
 type Source struct {

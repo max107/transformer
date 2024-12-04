@@ -1,4 +1,4 @@
-module gitlab.com/falaleev/shared/transformer
+module github.com/max107/transformer
 
 go 1.23
 
